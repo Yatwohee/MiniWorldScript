@@ -6,9 +6,11 @@
   
 # 项目结构
 
-├── doc 文档
+├── script     脚本 
 
-├── README.md 帮助
+├── doc        文档
 
-└── script 脚本
+├── LICENSE    许可证
+
+└── README.md  帮助
 
